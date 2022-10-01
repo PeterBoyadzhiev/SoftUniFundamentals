@@ -1,0 +1,20 @@
+﻿using System;
+using System.Numerics;
+
+namespace _01._Integer_Operations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number1 = int.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
+            int number3 = int.Parse(Console.ReadLine());
+            int number4 = int.Parse(Console.ReadLine());
+
+            BigInteger finalResult = ((BigInteger)number1 + number2) / number3 * number4;
+
+            Console.WriteLine(finalResult);
+        }
+    }
+}
