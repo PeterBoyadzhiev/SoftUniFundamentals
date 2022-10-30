@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.exe
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.deps.json
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.dll
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.dll
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+C:\Users\123\Source\Repos\Programming Fundamentals Mid Exam Prep\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.genruntimeconfig.cache

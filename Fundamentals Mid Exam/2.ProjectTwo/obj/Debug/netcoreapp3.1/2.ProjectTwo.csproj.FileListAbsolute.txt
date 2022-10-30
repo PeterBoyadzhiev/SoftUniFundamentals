@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.exe
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.deps.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.runtimeconfig.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\bin\Debug\netcoreapp3.1\2.ProjectTwo.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\2.ProjectTwo\obj\Debug\netcoreapp3.1\2.ProjectTwo.genruntimeconfig.cache

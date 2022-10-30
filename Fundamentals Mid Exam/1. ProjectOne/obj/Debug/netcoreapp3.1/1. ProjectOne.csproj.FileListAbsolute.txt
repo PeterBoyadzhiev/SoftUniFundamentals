@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.exe
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.deps.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.runtimeconfig.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\bin\Debug\netcoreapp3.1\1. ProjectOne.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\1. ProjectOne\obj\Debug\netcoreapp3.1\1. ProjectOne.genruntimeconfig.cache

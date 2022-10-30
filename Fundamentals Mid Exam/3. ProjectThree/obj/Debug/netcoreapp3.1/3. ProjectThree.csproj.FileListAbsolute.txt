@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.exe
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.deps.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.runtimeconfig.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\bin\Debug\netcoreapp3.1\3. ProjectThree.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.dll
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.pdb
+C:\Users\123\Source\Repos\Fundamentals Mid Exam\3. ProjectThree\obj\Debug\netcoreapp3.1\3. ProjectThree.genruntimeconfig.cache
